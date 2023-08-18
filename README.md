@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreu-test
+- 👋 Hi, I’m andreu-test
 - This is just a testing GH page, my official page is this --> [andreumartorell](https://andreumartorell.com/)
 
 <!---
